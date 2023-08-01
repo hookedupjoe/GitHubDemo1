@@ -1,3 +1,3 @@
-# hookedupjoe.github.io.GitHubDemo1
+# hookedupjoe GitHubDemo1
 
 Testing Deployment of Repo
